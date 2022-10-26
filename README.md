@@ -5,7 +5,7 @@ An opinionated Next.js starter template with Redux Toolkit, TypeScript and style
 ## Installation
 
 ```
-git clone https://github.com/benja/nextjs-redux project-name
+git clone https://github.com/theMillenniumFalcon/nextjs-redux-template project-name
 cd project-name
 npm i
 npm run dev
